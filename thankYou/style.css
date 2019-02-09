@@ -1,0 +1,51 @@
+html, body{
+    font-family: 'Source Sans Pro';
+}
+
+img{
+    max-height: 8em;
+    max-width: 8em;
+}
+
+.page{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.welcome-tron{
+
+    background: transparent !important;
+
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    width: 80vw;
+
+}
+
+.welcome-title{
+
+    font-weight: 700;
+    font-size: 5.5em;
+    
+}
+
+.link-box{
+
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+
+}
+
+.message{
+
+    text-indent: 2em;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 2em;
+    padding-bottom: 2em;
+
+}

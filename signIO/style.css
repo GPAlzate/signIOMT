@@ -1,0 +1,54 @@
+html, body{
+    font-family: 'Source Sans Pro';
+}
+
+.page{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.radioBox{
+
+    height: 20em;
+    width: 32.36em;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ddd;
+
+}
+
+#header{
+
+    padding-left: 1.5vw;
+    padding-top: 1.618vw;
+    padding-bottom: 1vw;
+    border-bottom: 1px solid #ddd;
+
+}
+
+#mainForm{
+
+   margin-top: 2vw; 
+   margin-left: 2vw; 
+    
+}
+
+#question{
+
+    text-indent: 1vw;
+    padding-top: 1.618vw;
+    
+}
+
+#proceedBtn{
+
+    position: absolute;
+    margin-left: 1vw;
+    top: 75%;
+
+
+}
