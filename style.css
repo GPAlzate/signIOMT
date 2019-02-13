@@ -8,7 +8,7 @@ html, body{
 
 h5{
 
-    font-size: 5vw;
+    font-size: 5vh;
 
 }
 
@@ -23,7 +23,7 @@ h5{
 
 .radioBox{
 
-    height: 70vh;
+    height: 60vh;
     width: 70vw;
 
     border-style: solid;
@@ -41,7 +41,7 @@ h5{
 
 .custom-control-label, .radio-inline{
 
-    font-size: 3.75vw;
+    font-size: 5vh;
     line-height: 3vh;
 
 }
@@ -64,8 +64,7 @@ h5{
 
 #question{
 
-    text-indent: 1vw;
-    padding-top: 5vh;
+    padding-top: 3vh;
     
 }
 
