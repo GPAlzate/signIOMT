@@ -74,5 +74,9 @@ h5{
     margin-left: 1vw;
     top: 75%;
 
+}
 
+.btn-block{
+    padding: 2rem 4rem;
+    font-size: 2rem;
 }
